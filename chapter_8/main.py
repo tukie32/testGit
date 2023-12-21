@@ -38,4 +38,4 @@ def giveMeMyGroceries(thing_to_add):
     grocery_list = ["grapes", "oragnes", "bannans"]
     grocery_list.append(thing_to_add)
     return grocery_list
-print(giveMeMyGroceries("spaghetti").append("tomato sauce"))
+print(giveMeMyGroceries("spaghetti"))
